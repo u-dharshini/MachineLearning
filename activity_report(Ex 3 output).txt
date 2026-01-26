@@ -1,0 +1,23 @@
+STUDENT ACTIVITY REPORT
+
+Student ID      : S101
+Name            : Alice
+Total Logins    : 1
+Submissions     : 1
+Abnormal Access : NO
+-----------------------------
+Student ID      : S102
+Name            : Bob
+Total Logins    : 2
+Submissions     : 1
+Abnormal Access : YES
+-----------------------------
+DAILY ACTIVITY STATISTICS
+
+Date: 2024-03-01
+  LOGIN : 2
+  SUBMIT_ASSIGNMENT : 2
+  LOGOUT : 1
+
+Date: 2024-03-02
+  LOGIN : 1
